@@ -1,4 +1,4 @@
-//first master commit
+//concurrent change from another user.
 
 //first feature branch commit
 //update in feature branch
